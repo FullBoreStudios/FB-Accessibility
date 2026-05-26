@@ -6,6 +6,7 @@
 
 A lightweight, self-contained, open-source web accessibility widget and language switcher. Designed to provide essential WCAG 2.1 & 2.2 accessibility adjustments and client-side translation capability.
 
+
 ## Features
 
 - **Language Switcher (Weglot style)**: Seamless client-side translation using Google Translate API with custom dropdown UI.
@@ -30,6 +31,11 @@ Since `fb_accessibility.js` is fully self-contained, simply place the script tag
 ```
 
 No additional CSS or external dependencies are required. All styling, SVG icons, and HTML panels are injected dynamically via JavaScript.
+
+
+## Default UI look and feel
+
+![alt text](resources/screenshot.png)
 
 ## Contributing
 
